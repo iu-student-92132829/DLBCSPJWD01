@@ -247,7 +247,7 @@ const Content: Component = () => {
                     </Show>
                 </Match>
                 <Match when={stage() === Stage.Settings}>
-                    {/* Make the spacing consistents. */}
+                    {/* Make the spacing consistent. */}
                     <div class="flex w-full max-w-sm flex-col items-center gap-4 px-6">
                         {/* Video processing settings. */}
 
