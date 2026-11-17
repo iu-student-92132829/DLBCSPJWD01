@@ -5,7 +5,7 @@ This project was made for the course Project Java and Web Development (DLBCSPJWD
 
 ## Usage
 
-1. Upload a video up to 512 MB.
+1. Upload a video up to 32 MB.
 2. Choose a speed between 0.1× and 16× and if you want to reverse/mute it.
 3. The server will queue the video for processing and show the progress.
 4. The result can be viewed and downloaded.
